@@ -4,7 +4,7 @@
 // Example: To calculate the average of 12, 14 and 16 -
 // 12 + 14 + 16 = 42
 // 42 / 3 = 14
-
+console.log(`-----average-----`);
 const average = (...arg) => {
   let meanVal = 0;
 

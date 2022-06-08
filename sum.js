@@ -1,5 +1,5 @@
 // Create a function sum which accepts any amount of numbers and return the sum of their addition
-
+console.log(`-----sum-----`);
 const sum = (...arg) => {
   let sum = 0;
 

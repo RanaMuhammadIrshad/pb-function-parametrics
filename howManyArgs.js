@@ -1,6 +1,6 @@
 // Create a function howManyArgs which returns the total amount of arguments passed to it.
 // Example: passing 3 arguments when calling the function should return the number 3, passing 15 arguments should return the umber 15
-
+console.log(`-----howManyArgs-----`);
 const howManyArgs = (...arg) => arg.length;
 
 console.log(howManyArgs()); // -> 0
